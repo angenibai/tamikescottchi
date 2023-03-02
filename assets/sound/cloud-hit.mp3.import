@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cloud-hit.mp3-0d0c1751bec5164e585af9ee399c802f.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/cloud-hit.mp3"
+dest_files=[ "res://.import/cloud-hit.mp3-0d0c1751bec5164e585af9ee399c802f.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/reached-50.mp3-d7b618e965b4a57fd435803b9d3eb172.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/reached-50.mp3"
+dest_files=[ "res://.import/reached-50.mp3-d7b618e965b4a57fd435803b9d3eb172.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

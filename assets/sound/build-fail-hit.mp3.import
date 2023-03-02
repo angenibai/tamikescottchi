@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/build-fail-hit.mp3-9fb5767f7d2cd16a37811b11e24668f1.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/build-fail-hit.mp3"
+dest_files=[ "res://.import/build-fail-hit.mp3-9fb5767f7d2cd16a37811b11e24668f1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
